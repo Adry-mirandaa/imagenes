@@ -25,3 +25,6 @@
 
 # RPLOT-WC-WO
 [DESeq2_wc_vs_wo_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514016/DESeq2_wc_vs_wo_Rplot.pdf)
+
+# GRAFICO FASTQC
+![plot fastq](https://cloud.githubusercontent.com/assets/22641045/19164025/b47f47be-8bd4-11e6-8390-43a8ce5e738e.png)
