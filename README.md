@@ -6,25 +6,25 @@
 ![Fastq-Prinseq](https://cloud.githubusercontent.com/assets/22641045/19138334/7f92ed90-8b51-11e6-9739-defd1b92cda5.png)
 
 # RPlot-SC-SH
-[DESeq2_sc_vs_sh_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/513976/DESeq2_sc_vs_sh_Rplot.png)
+![sc-sh](https://cloud.githubusercontent.com/assets/22641045/19167861/e708492e-8be3-11e6-8abf-b93a5fd08ece.png)
 
 # RPLOT-SC-SO
-[DESeq2_sc_vs_so_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/513980/DESeq2_sc_vs_so_Rplot.png)
+![sc-so](https://cloud.githubusercontent.com/assets/22641045/19167871/f71a8b92-8be3-11e6-9ac3-24e3e28d1965.png)
 
 # RPLOT-SC-WC
-[DESeq2_sc_vs_wc_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514009/DESeq2_sc_vs_wc_Rplot.png)
+![sc-wc](https://cloud.githubusercontent.com/assets/22641045/19167888/02fa9614-8be4-11e6-8650-1bc5f37737cf.png)
 
 # RPLOT-SH-WH
-[DESeq2_sh_vs_wh_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514011/DESeq2_sh_vs_wh_Rplot.png)
+![sh-wh](https://cloud.githubusercontent.com/assets/22641045/19167899/0f4438ee-8be4-11e6-9190-846bee7bd42d.png)
 
 # RPLOT-SO-WO
-[DESeq2_so_vs_wo_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514013/DESeq2_so_vs_wo_Rplot.png)
+![so-wo](https://cloud.githubusercontent.com/assets/22641045/19167906/142f1d2e-8be4-11e6-9579-62297a218184.png)
 
 # RPLOT-WC-WH
-[DESeq2_wc_vs_wh_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514014/DESeq2_wc_vs_wh_Rplot.png)
+![wc-wh](https://cloud.githubusercontent.com/assets/22641045/19167913/1aef3fc2-8be4-11e6-8db6-684b18e06b28.png)
 
 # RPLOT-WC-WO
-[DESeq2_wc_vs_wo_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/514016/DESeq2_wc_vs_wo_Rplot.png)
+![wc-wo](https://cloud.githubusercontent.com/assets/22641045/19167922/1ee36fb8-8be4-11e6-915a-49940a6d2ca3.png)
 
 # GRAFICO FASTQC
 ![plot fastq](https://cloud.githubusercontent.com/assets/22641045/19164025/b47f47be-8bd4-11e6-8390-43a8ce5e738e.png)
@@ -39,7 +39,8 @@
 ![normalizacion](https://cloud.githubusercontent.com/assets/22641045/19166764/3ee2eb4a-8bdf-11e6-813a-5fdc3f85a136.png)
 
 # hitmapplot_heatM
-![de_rpkm_x_heatmap_rplot](https://cloud.githubusercontent.com/assets/22641045/19167399/e99085fa-8be1-11e6-8d07-f05eefbe62fd.png)
+![heat_map](https://cloud.githubusercontent.com/assets/22641045/19167925/244bff6a-8be4-11e6-8f2d-9f6accd2fdc9.png)
+
 
 # hitmapplotlog2
-![de_rpkm_log2_heatmap_rplot](https://cloud.githubusercontent.com/assets/22641045/19167405/f3515a06-8be1-11e6-8c0c-7cd323e4d099.png)
+![log2](https://cloud.githubusercontent.com/assets/22641045/19167930/2b2de2a8-8be4-11e6-8a80-091588a4b576.png)
