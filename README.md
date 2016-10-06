@@ -28,3 +28,6 @@
 
 # GRAFICO FASTQC
 ![plot fastq](https://cloud.githubusercontent.com/assets/22641045/19164025/b47f47be-8bd4-11e6-8390-43a8ce5e738e.png)
+
+# Logo Universidad
+![logou](https://cloud.githubusercontent.com/assets/22641045/19164524/ae89e9b6-8bd6-11e6-9518-74becb02acb8.png)
