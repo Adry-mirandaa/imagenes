@@ -44,3 +44,17 @@
 
 # hitmapplotlog2
 ![log2](https://cloud.githubusercontent.com/assets/22641045/19167930/2b2de2a8-8be4-11e6-8a80-091588a4b576.png)
+
+# Procesos biologicos 
+![scso1](https://cloud.githubusercontent.com/assets/22641045/19440250/9e1a5faa-9457-11e6-9805-b312c4c7411d.png)
+
+![scwc1](https://cloud.githubusercontent.com/assets/22641045/19440269/afa6814a-9457-11e6-925a-4771111f2fe3.png)
+
+![shwh1](https://cloud.githubusercontent.com/assets/22641045/19440276/b4f68992-9457-11e6-9e6c-35ffbe81d832.png)
+
+![sowo1](https://cloud.githubusercontent.com/assets/22641045/19440283/bbb3c92a-9457-11e6-8562-75a784588b92.png)
+
+![wcwh1](https://cloud.githubusercontent.com/assets/22641045/19440340/ed886e24-9457-11e6-96c4-985a20c216b3.png)
+
+![wcwo1](https://cloud.githubusercontent.com/assets/22641045/19440345/f1f841f0-9457-11e6-86d9-a0d42b2f92f1.png)
+
