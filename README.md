@@ -59,8 +59,8 @@
 ![wcwo1](https://cloud.githubusercontent.com/assets/22641045/19440345/f1f841f0-9457-11e6-86d9-a0d42b2f92f1.png)
 
 # KEGG PLOT
-![KEGG_Pathway_Rplot.pdf](https://github.com/Adry-mirandaa/imagenes/files/537000/KEGG_Pathway_Rplot.pdf)
+![plot kegg](https://cloud.githubusercontent.com/assets/22641045/19489994/babc453c-9543-11e6-8757-f0847583e877.png)
 
 # GRAFICO DE CORRELACION
-![Adriana_RPKM_sample_cor_matrix.pdf](https://github.com/Adry-mirandaa/imagenes/files/537001/Adriana_RPKM_sample_cor_matrix.pdf)
+![correlacion](https://cloud.githubusercontent.com/assets/22641045/19489995/babc9802-9543-11e6-9eb8-1e13e3baa867.png)
 
