@@ -63,5 +63,6 @@
 # GRAFICO DE CORRELACION
 ![correlacion](https://cloud.githubusercontent.com/assets/22641045/19489995/babc9802-9543-11e6-9eb8-1e13e3baa867.png)
 
-![unab](https://cloud.githubusercontent.com/assets/22641045/19656216/6d4e2200-99f5-11e6-93cf-2c96ea01bb3b.jpg)
+![unab_logo_vector](https://cloud.githubusercontent.com/assets/22641045/19660158/16c85968-9a05-11e6-8a11-4034b7c655a2.png)
+![cbib_logo](https://cloud.githubusercontent.com/assets/22641045/19660156/1644d228-9a05-11e6-8163-1796ba36a450.png)
 
