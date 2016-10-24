@@ -66,3 +66,7 @@
 ![unab_logo_vector](https://cloud.githubusercontent.com/assets/22641045/19660158/16c85968-9a05-11e6-8a11-4034b7c655a2.png)
 ![cbib_logo](https://cloud.githubusercontent.com/assets/22641045/19660156/1644d228-9a05-11e6-8163-1796ba36a450.png)
 
+
+CORRELACION
+![correlacion](https://cloud.githubusercontent.com/assets/22641045/19667768/282cb360-9a29-11e6-985d-c4024c426856.png)
+
