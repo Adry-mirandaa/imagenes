@@ -70,3 +70,5 @@
 CORRELACION
 ![correlacion](https://cloud.githubusercontent.com/assets/22641045/19667768/282cb360-9a29-11e6-985d-c4024c426856.png)
 
+
+![accesoempresa](https://cloud.githubusercontent.com/assets/22641045/19698075/39a03072-9ac4-11e6-9e82-0dad2ab19e9f.jpg)
